@@ -1,0 +1,38 @@
+.bg-light {
+  background-color: #000 !important;
+}
+.text-center {
+  background-color: #000 !important;
+  color: white;
+}
+
+.text {
+  text-decoration: none !important;
+  color: white !important;
+  padding: 0px 5px 0px 5px;
+}
+
+.navbar-toggler-icon{
+  color: #fff !important;
+}
+
+.imagens {
+  width: 25px;
+  height: 25px;
+}
+
+.suspeitos {
+  display: grid;
+  grid-template-columns: 125px 125px 30px 30px;
+  margin: 0px 0px 10px 15px;
+}
+
+.fieldsets {
+  margin: 0px 0px 10px 30px;
+}
+
+.armas, .locais {
+  display: grid;
+  grid-template-columns: 125px 155px 30px;
+  margin: 0px 0px 10px 15px;
+}

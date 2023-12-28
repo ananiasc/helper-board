@@ -1,0 +1,44 @@
+.bg-light-cl {
+  --bs-bg-opacity: 1;
+  background-color: #000 !important;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.logo-name,
+.navbar-toggler {
+  color: #ffffff !important;
+}
+
+.header-title {
+  color: #fff !important;
+}
+.header-link {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.logo-name,
+.navbar-toggler {
+  color: #ffffff !important;
+}
+
+.logo-image {
+  width: 100px;
+  height: 80px;
+  padding: 0px 10px 0px 10px;
+}
+
+.nav-items {
+  padding: 1rem;
+}
+
+.navbar-toggler-icon {
+  background-image: url('/menu-cardapio.png') !important;
+}

@@ -15,13 +15,16 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <><Header/><h1>Bem vindos</h1><Footer /></>,
+    errorElement: <>OPS! Página não foi encontrada</>
   },{
     path: "/detetive",
     element: <><Header/><Detetive /><Footer /></>,
+    errorElement: <>OPS! Página não foi encontrada</>
   },
   {
     path: "/about-us",
     element: <><Header/>Sobre nós<Footer /></>,
+    errorElement: <>OPS! Página não foi encontrada</>
   },
 ]);
 
